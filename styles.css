@@ -2,24 +2,24 @@
     max-width: 1600px;
     margin: 0 auto;
   }
-#nav a {
+nav a {
     text-align: center;
 } 
 nav a:hover {
     background-color: white;
 }
-#hero-msg h1, #hero-msg h4, #button-box, #mainsection {
+hero-msg h1, hero-msg h4, button-box, mainsection {
     text-align: center;
   }
-#hero-msg.book:hover, #background.join:hover {
+hero-msg.book:hover, background.join:hover {
     text-align: center;
     background-color: black;
     margin: 0 auto;
 }
-#background {
+background {
     height: 725px;
   }
-#background.msg {
+background.msg {
     background-color: black;
 }
 body {
