@@ -23,12 +23,16 @@ a.book{
 }
 a.book:hover {
     text-align: center;
-    background-color: black;
+    background-color: #fce172;
     margin: 0 auto;
+}
+a.join {
+    text-align: center;
+    text-decoration: none;
 }
 a.join:hover {
     text-align: center;
-    background-color: black;
+    background-color: #fce172;
     margin: 0 auto;
 }
 background {
