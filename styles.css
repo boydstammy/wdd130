@@ -21,7 +21,12 @@ a.book{
     text-decoration: none;
     text-align: center;
 }
-hero-msg.book:hover, background.join:hover {
+a.book:hover {
+    text-align: center;
+    background-color: black;
+    margin: 0 auto;
+}
+a.join:hover {
     text-align: center;
     background-color: black;
     margin: 0 auto;
