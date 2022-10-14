@@ -17,6 +17,10 @@ button-box {
     text-align: center;
     text-decoration: none;
 }
+a.book{
+    text-decoration: none;
+    text-align: center;
+}
 hero-msg.book:hover, background.join:hover {
     text-align: center;
     background-color: black;
