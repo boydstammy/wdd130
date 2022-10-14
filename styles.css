@@ -48,4 +48,11 @@ hero-img {
 #content.logo {
     width: 80px;
     margin: 0 auto;
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+#button-box.book {
+    text-align: center;
 }
