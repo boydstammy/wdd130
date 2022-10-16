@@ -108,7 +108,7 @@ main section img {
     text-align: center;
 }
 .home-title {
-    font-style: "Poppins", "Helvetica", "sans-serif";
+    font-family: "Poppins", "Helvetica", "sans-serif";
     font-size: 2em;
     margin-top: 10px;
 }
